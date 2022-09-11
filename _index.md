@@ -1,6 +1,4 @@
 ---
-layout: base
-type: page
 emoji: 🤹🏻‍♀️
 title: Learning github actions
 description: My notes on understanding Github actions.
