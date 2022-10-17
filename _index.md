@@ -37,6 +37,8 @@ jobs:
 - How to have incremental build numbers, after merging master?
   - Stuff tried:
     - `damienaicheh/extract-version-from-tag-action@v1.0.0` unable to increment. Even though it gets te tag action properly
+  - Stuff that works:
+    - {{ github.run_number }}
 
 ## Packages I use:
 
